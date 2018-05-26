@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/VRTK/Examples/016_Controller_HapticRumble.unity
+- path: Assets/Sabana/Background.unity
   isLoaded: 1
   isActive: 1
