@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 3b987cfb09b43f3498733728805acee3
-timeCreated: 1527359281
+guid: dbe5b3949b05f3843b6a39a632e12454
+timeCreated: 1527371741
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -87,8 +87,10 @@ ModelImporter:
     7400000: Default Take
     7400002: Curious
     7400004: GettingUp
-    7400006: n_001
-    7400008: Shaking
+    7400006: IDLE
+    7400008: IDLE2
+    7400010: n_001
+    7400012: Shaking
     9500000: //RootNode
     13700000: caballo
   externalObjects: {}
