@@ -4,4 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menus/PrimerMenu.unity
+    guid: b1c87b66d34f3a5448d770839f7eaf55
+  - enabled: 1
+    path: Assets/Menus/SegundoMenu.unity
+    guid: e0e3914f519065144899cbb94f18f36a
+  - enabled: 1
+    path: Assets/Sabana/Background.unity
+    guid: 5888045a3bec8d448b4104d4d87115fb

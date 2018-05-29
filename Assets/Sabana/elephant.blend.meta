@@ -154,15 +154,15 @@ ModelImporter:
     - serializedVersion: 16
       name: Eating
       takeName: Eating
-      firstFrame: 1
-      lastFrame: 200
+      firstFrame: 0
+      lastFrame: 140
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
@@ -182,15 +182,15 @@ ModelImporter:
     - serializedVersion: 16
       name: IDLE
       takeName: IDLE
-      firstFrame: -1
-      lastFrame: 279
+      firstFrame: 0
+      lastFrame: 240
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
@@ -210,15 +210,15 @@ ModelImporter:
     - serializedVersion: 16
       name: Trumpeting
       takeName: Trumpeting
-      firstFrame: -1
-      lastFrame: 279
+      firstFrame: 0
+      lastFrame: 240
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0

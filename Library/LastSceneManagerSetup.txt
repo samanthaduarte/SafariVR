@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Sabana/Background.unity
+- path: Assets/Menus/PrimerMenu.unity
   isLoaded: 1
   isActive: 1
