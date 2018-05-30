@@ -182,7 +182,7 @@ ModelImporter:
     - serializedVersion: 16
       name: IDLE
       takeName: IDLE
-      firstFrame: 0
+      firstFrame: -1
       lastFrame: 199
       wrapMode: 0
       orientationOffsetY: 0
@@ -211,7 +211,7 @@ ModelImporter:
       name: Scared
       takeName: Scared
       firstFrame: 50
-      lastFrame: 140
+      lastFrame: 169
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
