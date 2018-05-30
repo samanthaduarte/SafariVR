@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: ba6f5120f47c26544a1b7be6612acd84
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: arm2_L
+    100002: arm2_R
+    100004: arm_L
+    100006: arm_R
+    100008: Armature
+    100010: backAnkle_L
+    100012: backAnkle_R
+    100014: backfoot_L
+    100016: backfoot_R
+    100018: backLeg_IK-target_L
+    100020: backLeg_IK-target_R
+    100022: caballo
+    100024: ear_L
+    100026: ear_R
+    100028: frontAnkle_L
+    100030: frontAnkle_R
+    100032: frontFoot_L
+    100034: frontFoot_R
+    100036: frontLeg_IK-target_L
+    100038: frontLeg_IK-target_R
+    100040: head
+    100042: leg2_L
+    100044: leg2_R
+    100046: leg_L
+    100048: leg_R
+    100050: neck
+    100052: neck2
+    100054: neck3
+    100056: shoulder_L
+    100058: shoulder_R
+    100060: spine
+    100062: spine2
+    100064: spine3
+    100066: tail
+    100068: tail-CTRL
+    100070: tail2
+    100072: //RootNode
+    400000: arm2_L
+    400002: arm2_R
+    400004: arm_L
+    400006: arm_R
+    400008: Armature
+    400010: backAnkle_L
+    400012: backAnkle_R
+    400014: backfoot_L
+    400016: backfoot_R
+    400018: backLeg_IK-target_L
+    400020: backLeg_IK-target_R
+    400022: caballo
+    400024: ear_L
+    400026: ear_R
+    400028: frontAnkle_L
+    400030: frontAnkle_R
+    400032: frontFoot_L
+    400034: frontFoot_R
+    400036: frontLeg_IK-target_L
+    400038: frontLeg_IK-target_R
+    400040: head
+    400042: leg2_L
+    400044: leg2_R
+    400046: leg_L
+    400048: leg_R
+    400050: neck
+    400052: neck2
+    400054: neck3
+    400056: shoulder_L
+    400058: shoulder_R
+    400060: spine
+    400062: spine2
+    400064: spine3
+    400066: tail
+    400068: tail-CTRL
+    400070: tail2
+    400072: //RootNode
+    2100000: White
+    2100002: UnderBelly
+    2100004: Black
+    2100006: Brown
+    4300000: caballo
+    7400000: Default Take
+    7400002: Action
+    7400004: Curious
+    7400006: GettingUp
+    7400008: IDLE
+    7400010: IDLE2
+    7400012: n_001
+    7400014: Shaking
+    9500000: //RootNode
+    13700000: caballo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
