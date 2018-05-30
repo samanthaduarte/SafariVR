@@ -9,8 +9,6 @@ public class PathFollower : MonoBehaviour {
 	public float reachDist = 1.0f;
 	public int currentPoint = 0;
 
-
-
 	void Start(){
 
 	}
@@ -29,11 +27,12 @@ public class PathFollower : MonoBehaviour {
 		
 	}
 	void OnDrawGizmos(){
-		if (path.Length > 0)
-		for(int i = 0; i < path.Length; i++){
-				if (path[i] != null){
-					Gizmos.DrawSphere(path[i].position,reachDist);
-				}
+		if (path.Length > 0){
+			for(int i = 0; i < path.Length; i++){
+					if (path[i] != null){
+						Gizmos.DrawSphere(path[i].position,reachDist);
+					}
+			}
 		}
 	}
 }
