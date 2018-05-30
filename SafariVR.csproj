@@ -235,12 +235,6 @@
     <Reference Include="UnityEngine.StandardEvents">
       <HintPath>Library\UnityAssemblies\UnityEngine.StandardEvents.dll</HintPath>
     </Reference>
-    <Reference Include="ChannelPurchase">
-      <HintPath>Library\UnityAssemblies\ChannelPurchase.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityStore">
-      <HintPath>Library\UnityAssemblies\UnityStore.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
     </Reference>
@@ -257,6 +251,8 @@
   <ItemGroup>
     <Compile Include="Assets\Menus\Menu.cs" />
     <Compile Include="Assets\Menus\MenuEmpezar.cs" />
+    <Compile Include="Assets\Menus\SkyboxEmpezar.cs" />
+    <Compile Include="Assets\Menus\SkyboxMenu.cs" />
     <Compile Include="Assets\Menus\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\Menus\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\Menus\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
@@ -340,7 +336,6 @@
     <Compile Include="Assets\Oculus\VR\Scripts\Util\OVRWaitCursor.cs" />
     <Compile Include="Assets\Scripts\DontDestroyAudio.cs" />
     <Compile Include="Assets\Scripts\VRButton1.cs" />
-    <Compile Include="Packages\com.unity.xiaomi\UnityChannel\XiaomiSupport\AppStoreSettings.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Menus\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />
