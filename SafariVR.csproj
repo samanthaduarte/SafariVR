@@ -249,6 +249,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\ColJeep.cs" />
     <Compile Include="Assets\Environment\Free Low Poly Toon Nature\Standard Assets\Effects\ImageEffects\Scripts\Antialiasing.cs" />
     <Compile Include="Assets\Environment\Free Low Poly Toon Nature\Standard Assets\Effects\ImageEffects\Scripts\ImageEffectBase.cs" />
     <Compile Include="Assets\Environment\Free Low Poly Toon Nature\Standard Assets\Effects\ImageEffects\Scripts\ImageEffects.cs" />
@@ -343,6 +344,8 @@
     <Compile Include="Assets\PathFollower.cs" />
     <Compile Include="Assets\Scripts\DontDestroyAudio.cs" />
     <Compile Include="Assets\Scripts\VRButton1.cs" />
+    <Compile Include="Assets\triggerAnimal.cs" />
+    <Compile Include="Assets\triggerFicha.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Environment\Free Low Poly Desert Pack\Materials\Shaders\Vertex_Color_Basic.shader" />
