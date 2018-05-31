@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: b82beb0a6d5c2cb45915dc488576c3d0
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: arm2_L
+    100002: arm2_R
+    100004: arm_L
+    100006: arm_R
+    100008: Armature
+    100010: backAnkle_L
+    100012: backAnkle_R
+    100014: backfoot_L
+    100016: backfoot_R
+    100018: backLeg_IK-target_L
+    100020: backLeg_IK-target_R
+    100022: Bone
+    100024: Bone_001
+    100026: Bone_002
+    100028: Bone_003
+    100030: ear_L
+    100032: ear_R
+    100034: elefante
+    100036: //RootNode
+    100038: frontAnkle_L
+    100040: frontAnkle_R
+    100042: frontFoot_L
+    100044: frontFoot_R
+    100046: frontLeg_IK-target_L
+    100048: frontLeg_IK-target_R
+    100050: head
+    100052: leg2_L
+    100054: leg2_R
+    100056: leg_L
+    100058: leg_R
+    100060: neck3
+    100062: shoulder_L
+    100064: shoulder_R
+    100066: spine
+    100068: spine2
+    100070: spine3
+    100072: spine3_001
+    100074: spine3_002
+    100076: spine3_003
+    100078: tail-CTRL
+    100080: trunk
+    100082: trunk6
+    100084: trunk6_001
+    100086: trunk6_002
+    100088: trunk6_003
+    100090: trunk6_004
+    100092: trunk6_005
+    100094: trunk6_006
+    100096: trunk6_007
+    100098: trunk6_008
+    100100: trunk6_009
+    100102: trunk6_010
+    100104: trunk_IK-target
+    400000: arm2_L
+    400002: arm2_R
+    400004: arm_L
+    400006: arm_R
+    400008: Armature
+    400010: backAnkle_L
+    400012: backAnkle_R
+    400014: backfoot_L
+    400016: backfoot_R
+    400018: backLeg_IK-target_L
+    400020: backLeg_IK-target_R
+    400022: Bone
+    400024: Bone_001
+    400026: Bone_002
+    400028: Bone_003
+    400030: ear_L
+    400032: ear_R
+    400034: elefante
+    400036: //RootNode
+    400038: frontAnkle_L
+    400040: frontAnkle_R
+    400042: frontFoot_L
+    400044: frontFoot_R
+    400046: frontLeg_IK-target_L
+    400048: frontLeg_IK-target_R
+    400050: head
+    400052: leg2_L
+    400054: leg2_R
+    400056: leg_L
+    400058: leg_R
+    400060: neck3
+    400062: shoulder_L
+    400064: shoulder_R
+    400066: spine
+    400068: spine2
+    400070: spine3
+    400072: spine3_001
+    400074: spine3_002
+    400076: spine3_003
+    400078: tail-CTRL
+    400080: trunk
+    400082: trunk6
+    400084: trunk6_001
+    400086: trunk6_002
+    400088: trunk6_003
+    400090: trunk6_004
+    400092: trunk6_005
+    400094: trunk6_006
+    400096: trunk6_007
+    400098: trunk6_008
+    400100: trunk6_009
+    400102: trunk6_010
+    400104: trunk_IK-target
+    2100000: Material_001
+    2100002: Material_004
+    2100004: Material_003
+    4300000: elefante
+    7400000: Default Take
+    7400002: Eating
+    7400004: IDLE
+    7400006: n_005
+    7400008: Play
+    7400010: Trumpeting
+    9500000: //RootNode
+    13700000: elefante
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
